@@ -3,7 +3,7 @@
 Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
 ## To install:
-$sudo pacman -Syu go
+$sudo pacman -S go
 
 ## To run a go program:
 $go run hello-world.go
